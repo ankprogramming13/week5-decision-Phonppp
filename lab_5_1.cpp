@@ -17,8 +17,11 @@ int main ()
     cin >> name2;
 
     // เขียนเงื่อนไขให้ถูกต้องซะ หนูๆ
-    cout << "The two names are equal" << endl;
+    if cout << "The two names are equal" << endl;
+    else {
     cout << "The two names are not equal" << endl;
+    }
+
 
     return 0;
 }
